@@ -1,0 +1,32 @@
+{
+    "characters":[
+        {
+            "name":"Robert Langdon",
+            "occupation":"Professor",
+            "institution":"Harvard University",
+            "location":"Boston, USA",
+            "id":1
+        },
+        {
+            "name":"Maximillian Kohler",
+            "occupation":"Director",
+            "institution":"CERN",
+            "location":"Geneva, Switzerland",
+            "id":2
+        },
+        {
+            "name":"Leonardo Vetra",
+            "occupation":"Scientist",
+            "institution":"CERN",
+            "location":"Geneva, Switzerland",
+            "id":3
+        },
+        {
+            "name":"Vittoria Vetra",
+            "occupation":"Bio Entanglement Physicist",
+            "institution":"CERN",
+            "location":"Geneva, Switzerland",
+            "id":4
+        }
+    ]
+}
